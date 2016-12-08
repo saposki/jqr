@@ -1,0 +1,14 @@
+.desc, .item{
+  width:200px;
+  height:200px;
+  border:1px solid black;
+}
+
+.item{
+  background-color: red;
+}
+
+.desc{
+  z-index:100;
+  background-color:yellow;
+}
